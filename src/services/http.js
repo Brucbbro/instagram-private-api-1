@@ -1,4 +1,4 @@
-import axios from 'axios';
+import axios from 'react-native-axios';
 import utils from '../utils';
 import defaultHeaders from '../sources/defaultHeaders';
 import getFeedByHashtag from '../sources/getFeedByHashtag';
